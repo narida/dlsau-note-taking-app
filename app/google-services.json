@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528883664434",
+    "project_id": "dlsau---note-taking-app",
+    "storage_bucket": "dlsau---note-taking-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528883664434:android:26c845e215c9609cd15e2b",
+        "android_client_info": {
+          "package_name": "com.elishanarida.dlsau_notetakingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528883664434-idgnvi4clpduhd9oqhui4qv39sdtav5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACTOwgJH4BLM2UW7u07zJdJMyZOE4kXqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528883664434-idgnvi4clpduhd9oqhui4qv39sdtav5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

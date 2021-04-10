@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "DLSAU - Note Taking App"
